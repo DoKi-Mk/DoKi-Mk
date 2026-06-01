@@ -19,7 +19,7 @@
 ### 🛠 Tech Stack & Tools
 
 <div align="center">
-    (https://skillicons.dev/icons?i=cs,dotnet,js,react,docker,postgres&theme=dark)](https://soroushmkz.ir)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,react,docker,postgres&theme=dark)](https://soroushmkz.ir)
 </div>
 
 ---
