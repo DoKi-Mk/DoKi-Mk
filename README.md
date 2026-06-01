@@ -20,7 +20,7 @@
 
 <p align="center"> 
  
-[![My Skills](https://skillicons.dev/icons?i=css,html,node,js,react,docker&theme=dark)](https://soroushmkz.ir)
+[![My Skills](https://skillicons.dev/icons?i=html,css,node.js,js,react,docker&theme=dark)](https://soroushmkz.ir)
   
 </p>
 
